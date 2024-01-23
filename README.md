@@ -5,6 +5,7 @@
 This repository hosts an Excel project focused on the analysis and visualization of Bank Loan data. The project utilizes Excel's capabilities to explore trends and patterns within the dataset, creating interactive charts and graphs. The objective is to enhance the understanding of the data and facilitate effective communication of insights. The culmination of these efforts is a comprehensive dashboard that provides a visual representation of key findings, empowering users to derive meaningful conclusions from the Bank Loan data.
 
 ![Summary](ss2.png)
+![Overview](SS1.png)
 
 ## Insights
 
