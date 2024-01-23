@@ -43,13 +43,13 @@ The dashboard's versatility extends to accommodating 14 distinct purposes and 7 
 
 This comprehensive dashboard presents key metrics encompassing Total Loan Applications, Funded Amount, Amount Received, Average Interest Rate, and various temporal analyses such as Month to Day, Previous Month to Day, and Month to Month. The interactive interface offers customizable visualizations, including charts depicting Total Loan Applications by Month, Loan Term, State, Employment Length, Purpose, and Home Ownership.
 
-![Summary](SS_2.png)
+![Summary](SS_1.png)
 
 ### Overview Dashboard
 
 This comprehensive dashboard presents key metrics encompassing Total Loan Applications, Funded Amount, Amount Received, Average Interest Rate, and various temporal analyses such as Month to Day, Previous Month to Day, and Month to Month. It also includes charts depicting Good and Bad Loan Issued, Loan Applications, Funded Amount, and Amount Received.
 
-![Overview](SS1.png)
+![Overview](SS_2.png)
 
 ## Key Metrics
 
