@@ -4,9 +4,6 @@
 
 This repository hosts an Excel project focused on the analysis and visualization of Bank Loan data. The project utilizes Excel's capabilities to explore trends and patterns within the dataset, creating interactive charts and graphs. The objective is to enhance the understanding of the data and facilitate effective communication of insights. The culmination of these efforts is a comprehensive dashboard that provides a visual representation of key findings, empowering users to derive meaningful conclusions from the Bank Loan data.
 
-![Summary](ss2.png)
-![Overview](SS1.png)
-
 ## Insights
 
 After a quick data exploration in the Excel dataset `financial.xlsx`, here are some initial findings:
@@ -42,13 +39,17 @@ After a quick data exploration in the Excel dataset `financial.xlsx`, here are s
 
 The dashboard's versatility extends to accommodating 14 distinct purposes and 7 different grades, ensuring a tailored and insightful analysis of the provided data.
 
+### Summary Dashboard
+
+This comprehensive dashboard presents key metrics encompassing Total Loan Applications, Funded Amount, Amount Received, Average Interest Rate, and various temporal analyses such as Month to Day, Previous Month to Day, and Month to Month. The interactive interface offers customizable visualizations, including charts depicting Total Loan Applications by Month, Loan Term, State, Employment Length, Purpose, and Home Ownership.
+
+![Summary](ss2.png)
+
 ### Overview Dashboard
 
 This comprehensive dashboard presents key metrics encompassing Total Loan Applications, Funded Amount, Amount Received, Average Interest Rate, and various temporal analyses such as Month to Day, Previous Month to Day, and Month to Month. It also includes charts depicting Good and Bad Loan Issued, Loan Applications, Funded Amount, and Amount Received.
 
-### Summary Dashboard
-
-This comprehensive dashboard presents key metrics encompassing Total Loan Applications, Funded Amount, Amount Received, Average Interest Rate, and various temporal analyses such as Month to Day, Previous Month to Day, and Month to Month. The interactive interface offers customizable visualizations, including charts depicting Total Loan Applications by Month, Loan Term, State, Employment Length, Purpose, and Home Ownership.
+![Overview](SS1.png)
 
 ## Key Metrics
 
